@@ -25,4 +25,3 @@
 ---
 
 *程式碼已經遺失 QQ*    
-<a href="/koozu/AchievementDisplay" style="position:fixed;top:0px;right:0px">返回</a>
